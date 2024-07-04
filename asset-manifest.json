@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-splitting-test-lazy/static/css/main.f855e6bc.css",
+    "main.js": "/react-splitting-test-lazy/static/js/main.4ec64f68.js",
+    "static/css/768.dbc271f6.chunk.css": "/react-splitting-test-lazy/static/css/768.dbc271f6.chunk.css",
+    "static/js/768.4ba93731.chunk.js": "/react-splitting-test-lazy/static/js/768.4ba93731.chunk.js",
+    "static/css/163.dbc271f6.chunk.css": "/react-splitting-test-lazy/static/css/163.dbc271f6.chunk.css",
+    "static/js/163.33310ed7.chunk.js": "/react-splitting-test-lazy/static/js/163.33310ed7.chunk.js",
+    "static/css/574.dbc271f6.chunk.css": "/react-splitting-test-lazy/static/css/574.dbc271f6.chunk.css",
+    "static/js/574.7dc8bded.chunk.js": "/react-splitting-test-lazy/static/js/574.7dc8bded.chunk.js",
+    "static/css/809.dbc271f6.chunk.css": "/react-splitting-test-lazy/static/css/809.dbc271f6.chunk.css",
+    "static/js/809.31e92762.chunk.js": "/react-splitting-test-lazy/static/js/809.31e92762.chunk.js",
+    "static/js/453.9a0edc82.chunk.js": "/react-splitting-test-lazy/static/js/453.9a0edc82.chunk.js",
+    "index.html": "/react-splitting-test-lazy/index.html",
+    "main.f855e6bc.css.map": "/react-splitting-test-lazy/static/css/main.f855e6bc.css.map",
+    "main.4ec64f68.js.map": "/react-splitting-test-lazy/static/js/main.4ec64f68.js.map",
+    "768.dbc271f6.chunk.css.map": "/react-splitting-test-lazy/static/css/768.dbc271f6.chunk.css.map",
+    "768.4ba93731.chunk.js.map": "/react-splitting-test-lazy/static/js/768.4ba93731.chunk.js.map",
+    "163.dbc271f6.chunk.css.map": "/react-splitting-test-lazy/static/css/163.dbc271f6.chunk.css.map",
+    "163.33310ed7.chunk.js.map": "/react-splitting-test-lazy/static/js/163.33310ed7.chunk.js.map",
+    "574.dbc271f6.chunk.css.map": "/react-splitting-test-lazy/static/css/574.dbc271f6.chunk.css.map",
+    "574.7dc8bded.chunk.js.map": "/react-splitting-test-lazy/static/js/574.7dc8bded.chunk.js.map",
+    "809.dbc271f6.chunk.css.map": "/react-splitting-test-lazy/static/css/809.dbc271f6.chunk.css.map",
+    "809.31e92762.chunk.js.map": "/react-splitting-test-lazy/static/js/809.31e92762.chunk.js.map",
+    "453.9a0edc82.chunk.js.map": "/react-splitting-test-lazy/static/js/453.9a0edc82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4ec64f68.js"
+  ]
+}
